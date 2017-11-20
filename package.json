@@ -21,6 +21,9 @@
   },
   "homepage": "https://github.com/thatisuday/ng-dropzone#readme",
   "devDependencies": {
+    "@types/angular": "^1.6.39",
+    "angular": "^1.6.6",
+    "dropzone": "^5.2.0",
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^3.1.0",
     "gulp-concat": "^2.6.0",
